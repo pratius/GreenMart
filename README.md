@@ -1,4 +1,4 @@
-This webiste developed using ReactJs and nodeJS.
+This webiste is developed using ReactJs and nodeJS.
 
 ## Available Scripts
 
